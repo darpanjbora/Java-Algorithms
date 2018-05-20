@@ -1,3 +1,9 @@
+/**
+ * Time Complexity: O(nk^2)
+ * Auxiliary Space: O(nk)
+ */
+
+
 class EggDroppingPuzzle {
 
     public static int EggDrops(int noOfEggs, int noOfFloors){
