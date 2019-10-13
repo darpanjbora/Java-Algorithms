@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ADVAITH18",
+      "name": "ADVAITH U",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45172876?v=4",
+      "profile": "https://github.com/ADVAITH18",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Java-Algorithms",
+  "projectOwner": "darpanjbora",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
