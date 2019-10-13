@@ -1,5 +1,5 @@
 # Java Algorithms
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 ## Contributors ✨
 
@@ -9,6 +9,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/tttson"><img src="https://avatars2.githubusercontent.com/u/24596895?v=4" width="100px;" alt="T"/><br /><sub><b>T</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=tttson" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ADVAITH18"><img src="https://avatars0.githubusercontent.com/u/45172876?v=4" width="100px;" alt="ADVAITH U"/><br /><sub><b>ADVAITH U</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=ADVAITH18" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ankurpalmia"><img src="https://avatars0.githubusercontent.com/u/34860089?v=4" width="100px;" alt="Ankur Palmia"/><br /><sub><b>Ankur Palmia</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=ankurpalmia" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/JD235"><img src="https://avatars0.githubusercontent.com/u/43887713?v=4" width="100px;" alt="JD"/><br /><sub><b>JD</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=JD235" title="Code">💻</a></td>
