@@ -1,7 +1,17 @@
 # Java Algorithms
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
+
+### Hub for **All Java Algorithms** arranged as per their categories
+
+Provides a huge range of algorithm categories such as **sorting, searching, backtracking and much more**.
+
+## Collaboration
+
+**Open to collaboration and support**
+
 ## Contributors ✨
+
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
