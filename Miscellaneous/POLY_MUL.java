@@ -1,6 +1,6 @@
 // Multiplication of Two polynomial using Linked List
 
-mport java.util.*; 
+import java.util.*; 
 class POLY_MUL
 { 
   
