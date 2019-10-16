@@ -8,9 +8,7 @@ public class Palindrome{
         word = sc.nextLine();
         String[] wordArray = word.toUpperCase().split(" ");
         String noBlanksWord="";
-        int numCaracteres=0;
         for(int i=0;i<wordArray.length;i++){
-            numCaracteres+= wordArray[i].length();
             noBlanksWord+=wordArray[i];
         }
         
@@ -19,6 +17,7 @@ public class Palindrome{
         } else {
             System.out.println("The sentence: " + word + " IS NOT a palindrome.");
         }
+        sc.close();
         
     }
 
