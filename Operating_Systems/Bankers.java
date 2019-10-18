@@ -1,3 +1,4 @@
+package Operating_Systems;
 /*
  PROGRAM : BANKER'S ALGORITHM
  Author  : Yukta peswani

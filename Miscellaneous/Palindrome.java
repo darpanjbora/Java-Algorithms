@@ -1,5 +1,7 @@
+package Miscellaneous;
+
 import java.util.Scanner;
-public class main
+class Main
 {
     public static void main(String args[])
     {

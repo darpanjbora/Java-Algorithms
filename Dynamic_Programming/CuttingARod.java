@@ -1,3 +1,4 @@
+package Dynamic_Programming;
 /**
  * Given a rod of length n inches and an array of prices 
  * that contains prices of all pieces of size smaller than n. 

@@ -1,3 +1,5 @@
+package Sorting_Algorithms;
+
 import java.io.*;
 class Insertion
 {

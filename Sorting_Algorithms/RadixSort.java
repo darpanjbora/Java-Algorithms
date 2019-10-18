@@ -1,4 +1,6 @@
-// Radix sort Java implementation 
+package Sorting_Algorithms;
+
+// Radix sort Java implementation
 import java.io.*; 
 import java.util.*; 
 

@@ -1,4 +1,5 @@
-// A Java program for Dijkstra's single source shortest path algorithm. 
+package Greedy_Algorithms;
+// A Java program for Dijkstra's single source shortest path algorithm.
 // The program is for adjacency matrix representation of the graph 
 import java.util.*; 
 import java.lang.*; 

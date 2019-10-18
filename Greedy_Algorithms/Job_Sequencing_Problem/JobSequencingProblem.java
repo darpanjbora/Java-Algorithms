@@ -1,3 +1,4 @@
+package Greedy_Algorithms.Job_Sequencing_Problem;
 /**
  * Given an array of jobs where every job has a deadline and 
  * associated profit if the job is finished before the deadline. 

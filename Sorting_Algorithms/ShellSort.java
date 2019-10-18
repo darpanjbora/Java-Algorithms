@@ -1,4 +1,6 @@
-// Java implementation of ShellSort 
+package Sorting_Algorithms;
+
+// Java implementation of ShellSort
 class ShellSort 
 { 
 	/* An utility function to print array of size n*/

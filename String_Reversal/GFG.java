@@ -1,3 +1,5 @@
+package String_Reversal;
+
 //Reverse an array without affecting special characters
 class GFG 
 { 

@@ -1,4 +1,6 @@
-// Java program for implementation of QuickSort 
+package Sorting_Algorithms;
+
+// Java program for implementation of QuickSort
 class QuickSort 
 { 
 	/* This function takes last element as pivot, 

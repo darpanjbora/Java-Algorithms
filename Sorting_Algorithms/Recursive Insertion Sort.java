@@ -1,8 +1,10 @@
-// Recursive Java program for insertion sort 
+package Sorting_Algorithms;
+
+// Recursive Java program for insertion sort
   
 import java.util.Arrays; 
   
-public class GFG  
+class GFG
 { 
     // Recursive function to sort an array using 
     // insertion sort 

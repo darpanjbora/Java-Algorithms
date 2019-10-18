@@ -1,3 +1,5 @@
+package Greedy_Algorithms.Activity_Selection_Problem;
+
 class Activity implements Comparable<Activity> {
      
     Integer startTime = 0;

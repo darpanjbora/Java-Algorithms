@@ -1,3 +1,4 @@
+package Greedy_Algorithms.Activity_Selection_Problem;
 /**
  * You are given n activities with their start and finish times. 
  * Select the maximum number of activities that can be performed by a single person, 

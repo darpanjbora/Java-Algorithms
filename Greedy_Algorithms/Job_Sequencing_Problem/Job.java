@@ -1,3 +1,5 @@
+package Greedy_Algorithms.Job_Sequencing_Problem;
+
 class Job implements Comparable<Job> {
 
     Character id = 'a';

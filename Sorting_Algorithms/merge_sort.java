@@ -1,4 +1,6 @@
-class MergeSort 
+package Sorting_Algorithms;
+
+class MergeSort
 { 
     // Merges two subarrays of arr[]. 
     // First subarray is arr[l..m] 
