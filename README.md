@@ -1,5 +1,5 @@
 # Java Algorithms
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors)
 
 
 ### Hub for **All Java Algorithms** arranged as per their categories
@@ -38,6 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/vasugoel062"><img src="https://avatars0.githubusercontent.com/u/56226687?v=4" width="100px;" alt="vasugoel062"/><br /><sub><b>vasugoel062</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=vasugoel062" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/SMN321"><img src="https://avatars1.githubusercontent.com/u/33412628?v=4" width="100px;" alt="simon"/><br /><sub><b>simon</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=SMN321" title="Code">💻</a></td>
   </tr>
 </table>
 
