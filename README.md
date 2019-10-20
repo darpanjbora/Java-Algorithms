@@ -1,5 +1,5 @@
 # Java Algorithms
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
 
 
 ### Hub for **All Java Algorithms** arranged as per their categories
@@ -53,6 +53,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Suchith-kumar"><img src="https://avatars3.githubusercontent.com/u/13486451?v=4" width="100px;" alt="SuchithKumar"/><br /><sub><b>SuchithKumar</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=Suchith-kumar" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/PratilipiAich"><img src="https://avatars0.githubusercontent.com/u/47985146?v=4" width="100px;" alt="PratilipiAich"/><br /><sub><b>PratilipiAich</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=PratilipiAich" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kushverma86"><img src="https://avatars3.githubusercontent.com/u/25582970?v=4" width="100px;" alt="Kush Verma"/><br /><sub><b>Kush Verma</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=kushverma86" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Pika1998"><img src="https://avatars3.githubusercontent.com/u/36433104?v=4" width="100px;" alt="Prafulla Raichurkar"/><br /><sub><b>Prafulla Raichurkar</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=Pika1998" title="Code">💻</a></td>
   </tr>
 </table>
 
