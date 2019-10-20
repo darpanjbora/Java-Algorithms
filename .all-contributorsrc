@@ -58,6 +58,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "insidetheradar",
+      "name": "Vivek Pandey",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/52068103?v=4",
+      "profile": "http://www.insidetheradar.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
