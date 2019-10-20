@@ -1,5 +1,5 @@
 # Java Algorithms
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors)
 
 
 ### Hub for **All Java Algorithms** arranged as per their categories
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/kavindugunathilaka"><img src="https://avatars3.githubusercontent.com/u/55224312?v=4" width="100px;" alt="kavindugunathilaka"/><br /><sub><b>kavindugunathilaka</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=kavindugunathilaka" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Tharakadhanushka"><img src="https://avatars3.githubusercontent.com/u/55351120?v=4" width="100px;" alt="Tharakadhanushka"/><br /><sub><b>Tharakadhanushka</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=Tharakadhanushka" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Mownika25"><img src="https://avatars3.githubusercontent.com/u/41233359?v=4" width="100px;" alt="Mownika"/><br /><sub><b>Mownika</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=Mownika25" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AurumnPegasus"><img src="https://avatars1.githubusercontent.com/u/54315149?v=4" width="100px;" alt="AurumnPegasus"/><br /><sub><b>AurumnPegasus</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=AurumnPegasus" title="Code">💻</a></td>
   </tr>
 </table>
 
