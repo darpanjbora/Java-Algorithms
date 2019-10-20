@@ -85,6 +85,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Sematre",
+      "name": "Sematre",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7118368?v=4",
+      "profile": "https://sematre.de",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
