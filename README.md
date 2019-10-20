@@ -1,5 +1,5 @@
 # Java Algorithms
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors)
 
 
 ### Hub for **All Java Algorithms** arranged as per their categories
@@ -44,6 +44,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sonwanigaurav"><img src="https://avatars3.githubusercontent.com/u/33836074?v=4" width="100px;" alt="sonwanigaurav"/><br /><sub><b>sonwanigaurav</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=sonwanigaurav" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/letscodedev"><img src="https://avatars0.githubusercontent.com/u/42699930?v=4" width="100px;" alt="letscodedev"/><br /><sub><b>letscodedev</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=letscodedev" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Amasha007"><img src="https://avatars3.githubusercontent.com/u/43165391?v=4" width="100px;" alt=" Sewmini Amasha"/><br /><sub><b> Sewmini Amasha</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=Amasha007" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/kavindugunathilaka"><img src="https://avatars3.githubusercontent.com/u/55224312?v=4" width="100px;" alt="kavindugunathilaka"/><br /><sub><b>kavindugunathilaka</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=kavindugunathilaka" title="Code">💻</a></td>
   </tr>
 </table>
 
