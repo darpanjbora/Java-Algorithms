@@ -1,4 +1,4 @@
-package FloydsCycleDetection;
+package Miscellaneous;
 
 public class FloydCycleDetector {
 

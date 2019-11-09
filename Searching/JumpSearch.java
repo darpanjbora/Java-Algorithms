@@ -1,4 +1,6 @@
-class JumpSearch { 
+package Searching;
+
+class JumpSearch {
     public static int jumpSearch(int[] arr, int x){ 
         int n = arr.length; 
   
