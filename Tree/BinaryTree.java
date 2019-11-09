@@ -1,7 +1,5 @@
 package Tree;
 
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Stack;
 
 public class BinaryTree {
@@ -74,6 +72,101 @@ public class BinaryTree {
         }
     }
 
+    /* Recursive approach of preOrder Traversal of Tree
+     * Time Complexity: O(n)
+     * Space Complexity: O(n) (implicit)
+     */
+    public void preOrder(BinaryTreeNode root) {
+        if (root == null) return;
+        System.out.print(root.data + " ");
+        preOrder(root.left);
+        preOrder(root.right);
+    }
+
+    /* preOrder Traversal of Tree with using any extra space, Morris Traversal
+     * Time Complexity: O(n)
+     * Space Complexity: O(1)
+     */
+    public void preOrderMorrisTraversal(BinaryTreeNode root) {
+        while (root != null) {
+            if (root.left == null) {
+                System.out.print(root.data + " ");
+                root = root.right;
+            } else {
+                BinaryTreeNode prev = root.left;
+                while (prev.right != null && prev.right != root)
+                    prev = prev.right;
+                if (prev.right == root) {
+                    prev.right = null;
+                    root = root.right;
+                } else {
+                    System.out.print(root.data + " ");
+                    prev.right = root;
+                    root = root.left;
+                }
+            }
+        }
+    }
+
+    /* Recursive approach of postOrder Traversal of Tree
+     * Time Complexity: O(n)
+     * Space Complexity: O(n) (implicit)
+     */
+    public void postOrder(BinaryTreeNode root) {
+        if (root == null) return;
+        postOrder(root.left);
+        postOrder(root.right);
+        System.out.print(root.data + " ");
+    }
+
+    /* Iterative  approach of psotOrder Traversal of Tree using two stack
+     * Time Complexity: O(n)
+     * Space Complexity: O(n) (explicit)
+     */
+    public void iterativePostOrderTraversalTwoStack(BinaryTreeNode rootref) {
+        if (rootref == null) return;
+        Stack<BinaryTreeNode> stack1 = new Stack<BinaryTreeNode>();
+        Stack<BinaryTreeNode> stack2 = new Stack<BinaryTreeNode>();
+        stack1.push(rootref);
+        while (!stack1.empty()) {
+            BinaryTreeNode temp = stack1.pop();
+            stack2.push(temp);
+            if (temp.left != null) stack1.push(temp.left);
+            if (temp.right != null) stack1.push(temp.right);
+        }
+        while (!stack2.empty()) {
+            System.out.print(stack2.pop().data + " ");
+        }
+    }
+
+    /* Iterative  approach of psotOrder Traversal of Tree using one stack
+     * Time Complexity: O(n)
+     * Space Complexity: O(n) (explicit)
+     */
+    public void iterativePostOrderTraversalOneStack(BinaryTreeNode rootref) {
+        if (rootref == null) return;
+        Stack<BinaryTreeNode> stack = new Stack<BinaryTreeNode>();
+        stack.push(rootref);
+        BinaryTreeNode prev = rootref;
+        while (!stack.empty()) {
+            BinaryTreeNode top = stack.peek();
+            if (top.left == null && top.right == null ||
+                    top.left == prev || top.right == prev) {
+                prev = stack.pop();
+                System.out.print(prev.data + " ");
+
+            } else if (top.left != null && top.right != null &&
+                    (top.left != prev || top.right != prev)) {
+                stack.push(top.right);
+                stack.push(top.left);
+            } else if (top.right != null && top.right != prev) {
+                stack.push(top.right);
+            } else if (top.left != null && top.left != prev) {
+                stack.push(top.left);
+            }
+        }
+    }
+
     public static void main(String[] args) {
         BinaryTree binaryTree = new BinaryTree();
         binaryTree.root = new BinaryTreeNode(1);
@@ -86,13 +179,28 @@ public class BinaryTree {
         binaryTree.root.left.right.left = new BinaryTreeNode(8);
         binaryTree.root.right.right.left = new BinaryTreeNode(9);
 
-        System.out.println("\nInOrder");
+        System.out.println("\nInOrderRecursively");
         binaryTree.inOrder(binaryTree.root);
 
-        System.out.println("\nInOrderWithoutRecurion");
+        System.out.println("\nInOrderWithoutRecursion");
         binaryTree.inOrderWithoutRecursion(binaryTree.root);
+
         System.out.println("\nInOrderMorrisTraversal");
         binaryTree.inOrderMorrisTraversal(binaryTree.root);
 
+        System.out.println("\nPreOrderRecursively");
+        binaryTree.preOrder(binaryTree.root);
+
+        System.out.println("\npreOrderMorrisTraversal");
+        binaryTree.preOrderMorrisTraversal(binaryTree.root);
+
+        System.out.println("\npostOrderRecursively");
+        binaryTree.postOrder(binaryTree.root);
+
+        System.out.println("\niterativePostOrderTraversalOneStack");
+        binaryTree.iterativePostOrderTraversalOneStack(binaryTree.root);
+
+        System.out.println("\niterativePostOrderTraversalOneStack");
+        binaryTree.iterativePostOrderTraversalOneStack(binaryTree.root);
     }
 }
