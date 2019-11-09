@@ -1,5 +1,5 @@
 # Java Algorithms
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors)
 
 
 ### Hub for **All Java Algorithms** arranged as per their categories
@@ -66,6 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/luan-gayzao"><img src="https://avatars3.githubusercontent.com/u/57046589?v=4" width="100px;" alt="luan-gayzao"/><br /><sub><b>luan-gayzao</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=luan-gayzao" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/nareshiitg/"><img src="https://avatars1.githubusercontent.com/u/5656991?v=4" width="100px;" alt="Naresh Gupta"/><br /><sub><b>Naresh Gupta</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=naresh1406" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/RasmusKnothNielsen"><img src="https://avatars3.githubusercontent.com/u/12834690?v=4" width="100px;" alt="Rasmus Knoth Nielsen"/><br /><sub><b>Rasmus Knoth Nielsen</b></sub></a><br /><a href="https://github.com/darpanjbora/Java-Algorithms/commits?author=RasmusKnothNielsen" title="Code">💻</a></td>
   </tr>
 </table>
 
