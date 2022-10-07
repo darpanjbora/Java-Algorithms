@@ -1,4 +1,6 @@
-class BinarySearch { 
+package Searching;
+
+class BinarySearch {
     int Search(int arr[], int l, int r, int search_element) 
     { 
         if (r >= l) { 

@@ -1,3 +1,5 @@
+package Searching;
+
 //Java program to implement interpolation search
 public class InterpolationSearch {
 

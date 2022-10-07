@@ -1,3 +1,4 @@
+package Miscellaneous;
 /**
  * Created with IntelliJ IDEA.
  * User: ngupta

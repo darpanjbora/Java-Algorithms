@@ -1,4 +1,6 @@
-//Fibonacci Search 
+package Searching;
+
+//Fibonacci Search
 import java.util.*; 
 
 class FibonacciSearch

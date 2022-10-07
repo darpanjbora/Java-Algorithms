@@ -1,3 +1,4 @@
+package Miscellaneous;
 /**
  * Given a integer as a input and replace all the ‘0’ with ‘5’ in the integer.
  * Use of array to store all digits is not allowed.

@@ -1,3 +1,5 @@
+package DuplicateLinesElimination;
+
 import java.io.*;
 class DuplicateElimination
 {
